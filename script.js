@@ -1,5 +1,4 @@
 "use strict";
-//const { Engine, World, Bodies, Body } = Matter;
 
 var vp_width = 920, vp_height = 690;
 var world, engine, body;
